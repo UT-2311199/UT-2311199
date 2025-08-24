@@ -1,3 +1,4 @@
+![logo](https://github.com/UT-2311199/UT-2311199/blob/main/YouTube%20Banner%20-%20Your%20Name.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Tripathi</h1>
 <h3 align="center">Learning. Building. Growing.</h3>
 
